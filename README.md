@@ -1,6 +1,6 @@
 ### Hi there 👋
 I am new to coding
-I'm enrolled in CF30 and so far I love the tech world
+I'm enrolled in CF50 and so far I love the tech world
 If you have any pointers for beginners feel free to reach out
 I'm currently working on an interactive story with a hidden game
 <!--
